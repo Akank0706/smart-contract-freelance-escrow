@@ -1,0 +1,6 @@
+{
+  "name": "Smart Contract Freelance Escrow",
+  "description": "Decentralized freelance payment escrow DApp using Solidity smart contracts for fund locking, work verification, automated payouts, dispute resolution, and testnet simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
